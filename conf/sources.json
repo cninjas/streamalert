@@ -25,6 +25,11 @@
     }
   },
   "stream_alert_app": {
+    "prefix_cluster_aliyun_actiontrail_sm-app-name_app": {
+      "logs": [
+        "aliyun"
+      ]
+    },
     "prefix_cluster_box_admin_events_sm-app-name_app": {
       "logs": [
         "box"
@@ -58,11 +63,6 @@
     "prefix_cluster_slack_integration_sm-app-name_app": {
       "logs": [
         "slack"
-      ]
-    },
-    "prefix_cluster_aliyun_actiontrail_sm-app-name_app": {
-      "logs": [
-        "aliyun"
       ]
     }
   }
